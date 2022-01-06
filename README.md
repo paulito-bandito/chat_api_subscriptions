@@ -153,7 +153,3 @@ Let’s go ahead and install these packages in our new virtual environment:
 ```bash
 pip install ariadne "uvicorn[standard]"
 ```
-
-## SVG Creation Resource
-
-The fancy SVG text in this readme is from here: https://loading.io/animation/text/

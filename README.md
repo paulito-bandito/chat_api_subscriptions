@@ -1,10 +1,10 @@
 # GRAPHQL CHAT API
 
-A simple GraphQL API that implements subscriptions built with Python and Ariadne (Schema-first API creation library for Python)
+A gem of a sample project written by Alex Kiura, which illustrates how to use GraphQL's subscription feature by creating an async chat app with Python and Ariadne (Schema-first API creation library for Python).
 
-See the full article written by Alex Kiura, it has been archived as a PDF located in the project root. It is worth the read.
+See the full article is archived as a PDF located in the project root. It is worth the read.
 
-The original author had an incorrect `requirements.txt` so this is an updated version that fixes that.
+The original repo had an incorrect `requirements.txt` and isn't usable as is. This repo has an updated version that fixes that, and a README that gives you the basics on how to run this example.
 
 # To Run this Example:
 
@@ -153,3 +153,7 @@ Let’s go ahead and install these packages in our new virtual environment:
 ```bash
 pip install ariadne "uvicorn[standard]"
 ```
+
+## SVG Creation Resource
+
+The fancy SVG text in this readme is from here: https://loading.io/animation/text/

@@ -1,6 +1,6 @@
 # GRAPHQL CHAT API
 
-A gem of a sample project written by Alex Kiura, which illustrates how to use GraphQL's subscription feature by creating an async chat app with Python and Ariadne (Schema-first API creation library for Python).
+A (corrected and updated) gem of a sample project written by Alex Kiura, which illustrates how to use GraphQL's subscription feature by creating an async chat app with Python and Ariadne (Schema-first API creation library for Python).
 
 See the full article is archived as a PDF located in the project root. It is worth the read.
 

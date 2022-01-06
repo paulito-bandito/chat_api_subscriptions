@@ -4,7 +4,7 @@ A (corrected and updated) gem of a sample project written by Alex Kiura, which i
 
 See the full article is archived as a PDF located in the project root. It is worth the read.
 
-The original repo had an incorrect `requirements.txt` and isn't usable as is. This repo has an updated version that fixes that, and a README that gives you the basics on how to run this example.
+The original repo had an incorrect `requirements.txt` and isn't usable as is, also the README.md was void of instuctions (though it existed in the online article). This repo has an updated version that fixes that, and a README that gives you the basics on how to run this example.
 
 # To Run this Example:
 
